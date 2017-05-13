@@ -4,4 +4,6 @@
 
 ffm原理：http://tech.meituan.com/deep-understanding-of-ffm-principles-and-practices.html
 
+libffm-1.13是ffm的源码
 
+安装：
