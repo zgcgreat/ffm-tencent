@@ -19,7 +19,7 @@ def field_index(x):
     index = field.index(x)
     return index
 
-
+# 为特征值建立编号
 def getIndices(key):
     indices = table.get(key)
     if indices is None:
