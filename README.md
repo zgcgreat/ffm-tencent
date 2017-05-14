@@ -1,6 +1,6 @@
 这是一个在2017腾讯广告算法大赛数据集上实现ffm的简单例子，仅供参考，若有错误，谢谢指正，共同学习
 
-本项目环境：Linux
+本项目环境：ubuntu16.04
 
 ffm原理：http://tech.meituan.com/deep-understanding-of-ffm-principles-and-practices.html
 
